@@ -18,7 +18,7 @@ The bank is facing a **high level of loan defaults**, creating increased credit-
 The lack of clear, data-driven insight makes it difficult to **identify high-risk borrowers, monitor portfolio quality, and make informed lending decisions**. This project therefore aims to analyze historical credit data to uncover key risk patterns and provide actionable insights that can support **more effective credit assessment, risk monitoring, and lending strategies**.
 
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 - Loaded the raw dataset
 <img width="1393" height="788" alt="clean" src="https://github.com/user-attachments/assets/1fdd2e73-8c9b-4ea8-b654-647ca6b204ca" />
