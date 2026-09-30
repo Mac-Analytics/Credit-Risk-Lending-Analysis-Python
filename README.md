@@ -10,12 +10,11 @@
 
 
 
-
 ## Project Objectives
 
-The bank is facing a **high level of loan defaults**, creating increased credit-risk exposure within its lending portfolio. Management needs to understand **which borrower characteristics, loan conditions, and borrowing purposes are associated with higher default risk** and which segments contribute most to overall portfolio risk.
+The bank is facing a **high level of loan defaults**, creating increased credit-risk exposure within its lending portfolio. Management needs to understand **which borrower characteristics, loan conditions and borrowing purposes are associated with higher default risk** and which segments contribute most to overall portfolio risk.
 
-The lack of clear, data-driven insight makes it difficult to **identify high-risk borrowers, monitor portfolio quality, and make informed lending decisions**. This project therefore aims to analyze historical credit data to uncover key risk patterns and provide actionable insights that can support **more effective credit assessment, risk monitoring, and lending strategies**.
+The lack of clear, data-driven insight makes it difficult to **identify high-risk borrowers, monitor portfolio quality and make informed lending decisions**. This project therefore aims to analyze historical credit data to uncover key risk patterns and provide actionable insights that can support **more effective credit assessment, risk monitoring and lending strategies**.
 
 
 ## Data Cleaning & Preparation
@@ -55,13 +54,13 @@ The lack of clear, data-driven insight makes it difficult to **identify high-ris
 ### KPIs
 <img width="1410" height="718" alt="KPIs" src="https://github.com/user-attachments/assets/777cdff5-f356-4bb2-b7c9-b9818122689f" />
 
-- Total Loan Applications:
-- Total Default Cases:
-- Total Non-default Cases:
-- Default Rate (%):
-- Average Interest Rate:
-- Average Income Amount:
-- Average Loan Amount:
+- Total Loan Applications:  <ins>32581 </ins>
+- Total Default Cases:  <ins>7108 </ins>
+- Total Non-default Cases:  <ins>25473 </ins>
+- Default Rate (%):  <ins>21.82% </ins>
+- Average Interest Rate:  <ins>11% </ins>
+- Average Income Amount:  <ins>$9589.37 </ins>
+- Average Loan Amount:  <ins>$66074.85 </ins>
 
 ### Which loan purposes are associated with the highest default rates?  
 <img width="1177" height="916" alt="loan-intent-Table" src="https://github.com/user-attachments/assets/321ebb8c-9714-4c80-bb76-6f6b099dac78" />
@@ -153,7 +152,7 @@ Debt Consolidation loans had the highest default rate at 28.6%, followed by Medi
 ## 💡 Recommendations
 
 ### Strengthen screening for high-risk loan purposes.
-- Apply additional affordability and repayment-capacity checks to Debt Consolidation, Medical, and Home Improvement applications, which recorded the highest observed default rates.
+- Apply additional affordability and repayment-capacity checks to Debt Consolidation, Medical and Home Improvement applications, which recorded the highest observed default rates.
 
 ### Set tighter controls for high loan-to-income burdens.
 - Introduce additional review or lower lending limits for borrowers whose loan amount represents a high proportion of their income, as default rates increased sharply at higher loan-burden levels.
@@ -162,8 +161,12 @@ Debt Consolidation loans had the highest default rate at 28.6%, followed by Medi
 - Use employment duration alongside income and other financial indicators to assess repayment capacity, with closer review for borrowers with shorter employment histories.
 
 
+## Tools & Techniques
 
-
+- Python — Primary programming language for data analysis.
+- Pandas — Data loading, cleaning, transformation, aggregation and analysis.
+- Matplotlib — Data visualization and chart creation.
+- Jupyter Notebook / VS Code — Development environment and project documentation.
 
 
 
