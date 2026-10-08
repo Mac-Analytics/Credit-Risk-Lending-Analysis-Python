@@ -54,13 +54,13 @@ The lack of clear, data-driven insight makes it difficult to **identify high-ris
 ### KPIs
 <img width="1410" height="718" alt="KPIs" src="https://github.com/user-attachments/assets/777cdff5-f356-4bb2-b7c9-b9818122689f" />
 
-- Total Loan Applications:  <ins>32581 </ins>
-- Total Default Cases:  <ins>7108 </ins>
-- Total Non-default Cases:  <ins>25473 </ins>
+- Total Loan Applications:  <ins>32,581 </ins>
+- Total Default Cases:  <ins>7,108 </ins>
+- Total Non-default Cases:  <ins>25,473 </ins>
 - Default Rate (%):  <ins>21.82% </ins>
 - Average Interest Rate:  <ins>11% </ins>
-- Average Income Amount:  <ins>$9589.37 </ins>
-- Average Loan Amount:  <ins>$66074.85 </ins>
+- Average Income Amount:  <ins>$9,589.37 </ins>
+- Average Loan Amount:  <ins>$66,074.85 </ins>
 
 ### Which loan purposes are associated with the highest default rates?  
 <img width="1177" height="916" alt="loan-intent-Table" src="https://github.com/user-attachments/assets/321ebb8c-9714-4c80-bb76-6f6b099dac78" />
